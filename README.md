@@ -7,8 +7,8 @@
 ## 👀 About Me
 
 #### 🧑‍💻 I am a **Computer Science Student** from South Korea.
-#### 🎓 Majoring in Computer Science and Engineering.
-#### 🌟 Interested in **Cloud Computing, AI, and Backend Development**.
+#### 🎓 Majoring in Computer Engineering at Hankuk University of Foreign Studies.
+
 
 <br/>
 
@@ -42,9 +42,9 @@
 ## 🤔 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JieunPark3&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JieunPark3&layout=compact&theme=radical" />
+  <img height = 180cm, src="https://github-readme-stats.vercel.app/api?username=JieunPark3&show_icons=true&theme=radical" />
+  
+  <img height = 180cm, src="https://github-readme-stats.vercel.app/api/top-langs/?username=JieunPark3&layout=compact&theme=radical" />
 </p>
 
 <br/>
