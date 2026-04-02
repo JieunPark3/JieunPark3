@@ -42,9 +42,11 @@
 ## 🤔 Github Stats
 
 <p align="center">
-  <img height = 180cm, src="https://github-readme-stats.vercel.app/api?username=JieunPark3&show_icons=true&theme=radical" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JieunPark3&show_icons=true&theme=radical" />
   
-  <img height = 180cm, src="https://github-readme-stats.vercel.app/api/top-langs/?username=JieunPark3&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JieunPark3&layout=compact&theme=radical" />
+</p>
 </p>
 
 <br/>
