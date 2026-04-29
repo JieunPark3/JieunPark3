@@ -43,9 +43,9 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JieunPark3&theme=radical" />
+ 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JieunPark3&theme=github-v2" />
-  <br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JieunPark3&layout=compact&theme=radical&hide_border=true" />
+ 
 </p>
 </p>
 </p>
