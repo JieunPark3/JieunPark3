@@ -6,8 +6,9 @@
 
 ## 👀 About Me
 
-#### 🧑‍💻 I am a **Computer Science Student** from South Korea.
-#### 🎓 Majoring in Computer Engineering at Hankuk University of Foreign Studies.
+### 🎓 Academic & Certification
+* **Computer Engineering** @ Hankuk University of Foreign Studies (Senior, 4th Year)
+* **Certified SQL Developer (SQLD)**
 
 
 <br/>
