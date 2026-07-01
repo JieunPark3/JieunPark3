@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20Dev%20Space%20🚀&fontSize=50" />
-</div>
+</div> -->
 
 <br/>
 
@@ -9,7 +9,12 @@
 ### 🎓 Academic & Certification
 * **Computer Engineering** @ Hankuk University of Foreign Studies (Senior, 4th Year)
 * **Certified SQL Developer (SQLD)**
+* **Advanced Data Analytics Semi-Professional (ADsP)**
+* **Engineer Information Processing – Passed the Written Exam, Practical Exam Pending**
 
+
+## 🏆 Awards
+* **Excellence Award(우수상), G-RISE Capstone Design Competition, Hankuk University of Foreign Studies (2026)**
 
 <br/>
 
@@ -42,13 +47,13 @@
 
 ## 🤔 Github Stats
 
-<p align="center">
+<!-- <p align="center">
   <p align="center">
  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JieunPark3&theme=github-v2" />
  
 </p>
-</p>
+</p> -->
 </p>
 
 <br/>
