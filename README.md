@@ -6,12 +6,13 @@
 
 ## 👀 About Me
 
-### 🎓 Academic & Certification
+### 🎓 Academic 
 * **Computer Engineering** @ Hankuk University of Foreign Studies (Senior, 4th Year)
+
+### 📜 Certification
 * **Certified SQL Developer (SQLD)**
 * **Advanced Data Analytics Semi-Professional (ADsP)**
 * **Engineer Information Processing – Passed the Written Exam, Practical Exam Pending**
-
 
 ### 🏆 Awards
 * **Excellence Award(우수상), G-RISE Capstone Design Competition, Hankuk University of Foreign Studies (2026)**
