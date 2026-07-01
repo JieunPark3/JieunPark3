@@ -13,7 +13,7 @@
 * **Engineer Information Processing – Passed the Written Exam, Practical Exam Pending**
 
 
-## 🏆 Awards
+### 🏆 Awards
 * **Excellence Award(우수상), G-RISE Capstone Design Competition, Hankuk University of Foreign Studies (2026)**
 
 <br/>
